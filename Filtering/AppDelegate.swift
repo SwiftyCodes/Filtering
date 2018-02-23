@@ -8,9 +8,12 @@
 
 import UIKit
 
+
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+    var imageNamed1 : NSString?
+    
     var window: UIWindow?
 
 
